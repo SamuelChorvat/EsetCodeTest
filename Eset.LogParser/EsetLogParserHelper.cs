@@ -23,7 +23,8 @@ namespace Eset.LogParser
 
         public bool HasPacker(string previousNameFieldValue, string currentNameFieldValue)
         {
-            return currentNameFieldValue.Split(" » ").Length - previousNameFieldValue.Split(" » ").Length == 2;
+            return !previousNameFieldValue.Equals(string.Empty) 
+                && (currentNameFieldValue.Split(" » ").Length - previousNameFieldValue.Split(" » ").Length == 2);
         }
 
         public string GetPacker(string currentNameFieldValue)

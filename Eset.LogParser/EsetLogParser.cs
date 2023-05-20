@@ -32,6 +32,7 @@ namespace Eset.LogParser
                         _esetFileInfo.Packers.Clear();
                         _esetFileInfo.Threats.Clear();
                         _esetFileInfo.Name = fieldValues[0];
+                        previousNameFieldValue = string.Empty;
                     }
 
                     if (_esetLogParserHelper.HasPacker(previousNameFieldValue, fieldValues[0]))
