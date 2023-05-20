@@ -793,5 +793,4 @@ fabric.properties
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,aspnetcore,dotnetcore,visualstudio,rider
-.vs\DefinitelyNotSkynet\v17\.suo
-*.suo
+!EsetSampleLog.log
