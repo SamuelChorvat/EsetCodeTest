@@ -29,8 +29,7 @@ namespace Eset.LogParser
 
         public string GetPacker(string currentNameFieldValue)
         {
-            string[] splitValue = currentNameFieldValue.Split(" » ");
-            return splitValue[splitValue.Length - 2];
+            return currentNameFieldValue.Split(" » ")[^2];
         }
     }
 }
