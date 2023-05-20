@@ -10,7 +10,7 @@ namespace Eset.ConsoleApp
         {
             var serviceProvider = ConfigureServices();
             var app = serviceProvider.GetService<App>();
-            app.Run();
+            app?.Run();
         }
 
         static IServiceProvider ConfigureServices()
