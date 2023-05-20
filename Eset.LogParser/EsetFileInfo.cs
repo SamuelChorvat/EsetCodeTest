@@ -24,7 +24,7 @@ namespace Eset.LogParser
         public string GetFormattedFileInfoString()
         {
             return $"FILE -> {Name}\n"
-                        + $"\tARCHIVE -> {Packers.Count > 0}\n"
+                        + $"\tARCHIVE -> " + (Packers.Count > 0 ? "Yes" : "No") + "\n"
                         + (Packers.Count > 0 ? $"\tPACKERS -> {string.Join(", ", Packers)}\n" : "")
                         + $"\tINFILTRATIONS -> {string.Join(", ", Threats.Where(x => !x.Equals("multiple threats") && !x.Equals("is OK") && !x.Equals("")))}";
         }
