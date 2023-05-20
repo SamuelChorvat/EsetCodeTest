@@ -6,8 +6,8 @@ namespace Eset.LogParser
     public class EsetFileInfo : IEsetFileInfo
     {
         public string Name { get; set; }
-        public HashSet<string> Threats { get; }
-        public HashSet<string> Packers { get; }
+        public ISet<string> Threats { get; }
+        public ISet<string> Packers { get; }
 
         public EsetFileInfo()
         {

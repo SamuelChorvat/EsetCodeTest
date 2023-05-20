@@ -3,8 +3,8 @@
     public interface IEsetFileInfo
     {
         string Name { get; set; }
-        HashSet<string> Threats { get; }
-        HashSet<string> Packers { get; }
+        ISet<string> Threats { get; }
+        ISet<string> Packers { get; }
         bool IsInfected();
         string GetFormattedFileInfoString();
     }
