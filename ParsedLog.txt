@@ -1,0 +1,4595 @@
+FILE -> g:\Scan\Data\1.td
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Induc virus, a variant of Win32/TrojanDownloader.Delf.PWL trojan, a variant of Win32/Induc.A virus
+FILE -> g:\Scan\Data\10.čťš.($%^@!
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUV worm
+FILE -> g:\Scan\Data\1001
+        ARCHIVE -> Yes
+        PACKERS -> NSIS, CHROMEEXTENSION, ZIP
+        INFILTRATIONS -> a variant of Win32/Toolbar.Babylon.A potentially unwanted application, a variant of Win32/Adware.WinPump.AH application
+FILE -> g:\Scan\Data\1002
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Hupigon.AXBR trojan
+FILE -> g:\Scan\Data\1004
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.OZR trojan
+FILE -> g:\Scan\Data\1006
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Vampiro.unknown virus
+FILE -> g:\Scan\Data\1009
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUJ worm
+FILE -> g:\Scan\Data\1009:2074
+        ARCHIVE -> Yes
+        PACKERS -> ZIP
+        INFILTRATIONS -> Win32/Spy.Agent.NOM trojan
+FILE -> g:\Scan\Data\101
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.PWZ trojan
+FILE -> g:\Scan\Data\1010
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1011
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFNP trojan
+FILE -> g:\Scan\Data\1013
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spatet.T trojan
+FILE -> g:\Scan\Data\1014
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGXT trojan
+FILE -> g:\Scan\Data\1015
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.R worm
+FILE -> g:\Scan\Data\1018
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.AUN worm
+FILE -> g:\Scan\Data\1019
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\102
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.R worm
+FILE -> g:\Scan\Data\1020
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.AVI worm
+FILE -> g:\Scan\Data\1021
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Nutiliers.A trojan
+FILE -> g:\Scan\Data\1022
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality.NBA virus
+FILE -> g:\Scan\Data\1023
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1025
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio.HackTool.A potentially unwanted application
+FILE -> g:\Scan\Data\1026
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Rootkit.Kryptik.VD trojan
+FILE -> g:\Scan\Data\1027
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1029
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AHAM trojan
+FILE -> g:\Scan\Data\1030
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\1031
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\1033
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1036
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Lethic.AA trojan
+FILE -> g:\Scan\Data\1037
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1038
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrashBytes.G potentially unwanted application
+FILE -> g:\Scan\Data\104
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\1043
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.TEW trojan
+FILE -> g:\Scan\Data\1045
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1046
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1047
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFFG trojan
+FILE -> g:\Scan\Data\1048
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Y potentially unwanted application
+FILE -> g:\Scan\Data\1049
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\105
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AEV trojan
+FILE -> g:\Scan\Data\1050
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAU trojan
+FILE -> g:\Scan\Data\1051
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGUJ trojan
+FILE -> g:\Scan\Data\1052
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AHJQ trojan
+FILE -> g:\Scan\Data\1054
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.U worm
+FILE -> g:\Scan\Data\1055
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.NIS worm
+FILE -> g:\Scan\Data\1056
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1057
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\1058
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Agent.NXS trojan
+FILE -> g:\Scan\Data\1059
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.KJO trojan
+FILE -> g:\Scan\Data\106
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Rozena.ED trojan
+FILE -> g:\Scan\Data\1060
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.R worm
+FILE -> g:\Scan\Data\1062
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/VB.OZA trojan
+FILE -> g:\Scan\Data\1063
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Inject.NES trojan
+FILE -> g:\Scan\Data\1064
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\1065
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Delf.PH worm
+FILE -> g:\Scan\Data\1066
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ainslot.AA worm
+FILE -> g:\Scan\Data\1067
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon trojan
+FILE -> g:\Scan\Data\1068
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.Y worm
+FILE -> g:\Scan\Data\107
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.DP virus
+FILE -> g:\Scan\Data\1071
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AFX worm
+FILE -> g:\Scan\Data\1072
+        ARCHIVE -> No
+        INFILTRATIONS -> probably a variant of Win32/Patched.NAE trojan
+FILE -> g:\Scan\Data\1073
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1075
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1077
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1078
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AI worm
+FILE -> g:\Scan\Data\1079
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Bifrose.NTA trojan
+FILE -> g:\Scan\Data\108
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDropper.Binder.NBH trojan
+FILE -> g:\Scan\Data\1080
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1081
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1082
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\1083
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1084
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.TCI trojan
+FILE -> g:\Scan\Data\1085
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Patched.EH trojan
+FILE -> g:\Scan\Data\1086
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAA trojan
+FILE -> g:\Scan\Data\109
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CB potentially unwanted application
+FILE -> g:\Scan\Data\1090
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/CazinoSilver potentially unwanted application
+FILE -> g:\Scan\Data\1091
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pacex.Gen virus
+FILE -> g:\Scan\Data\1093
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.SFQ trojan
+FILE -> g:\Scan\Data\1095
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.YW trojan
+FILE -> g:\Scan\Data\1096
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGQG trojan
+FILE -> g:\Scan\Data\1097
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1099
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanClicker.BHO.NCS trojan
+FILE -> g:\Scan\Data\110
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.IIQ trojan
+FILE -> g:\Scan\Data\1100
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFVT trojan
+FILE -> g:\Scan\Data\1105
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Induc virus
+FILE -> g:\Scan\Data\1106
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Delf.QUC trojan
+FILE -> g:\Scan\Data\1108
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.UB worm
+FILE -> g:\Scan\Data\1109
+        ARCHIVE -> Yes
+        PACKERS -> CAB, RAR
+        INFILTRATIONS -> a variant of Win32/GameHack.DU potentially unsafe application, a variant of Win32/HackTool.Inject.O potentially unsafe application
+FILE -> g:\Scan\Data\111
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\1110
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFUN trojan
+FILE -> g:\Scan\Data\1111
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Adload.G trojan
+FILE -> g:\Scan\Data\1112
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1113
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1114
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Mabezat.H virus
+FILE -> g:\Scan\Data\1115
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1116
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AdWare.HotBar.U application
+FILE -> g:\Scan\Data\1117
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Genius.F application
+FILE -> g:\Scan\Data\1118
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NAL trojan
+FILE -> g:\Scan\Data\112
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCL trojan
+FILE -> g:\Scan\Data\1123
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AL worm
+FILE -> g:\Scan\Data\1124
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AF worm
+FILE -> g:\Scan\Data\1126
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\1127
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AQE worm
+FILE -> g:\Scan\Data\1128
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTF trojan
+FILE -> g:\Scan\Data\113
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\1131
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBZ trojan
+FILE -> g:\Scan\Data\1132
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Spy.Agent.BO trojan
+FILE -> g:\Scan\Data\1134
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.QKA trojan
+FILE -> g:\Scan\Data\1135
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFUN trojan
+FILE -> g:\Scan\Data\1137
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1139
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\114
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.FakeAlert.ARF trojan
+FILE -> g:\Scan\Data\1140
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toggle.A potentially unwanted application
+FILE -> g:\Scan\Data\1141
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1143
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\1144
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ARD worm
+FILE -> g:\Scan\Data\1148
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AKAH trojan
+FILE -> g:\Scan\Data\1149
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\115
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.ARO trojan
+FILE -> g:\Scan\Data\1151
+        ARCHIVE -> Yes
+        PACKERS -> AUTOIT
+        INFILTRATIONS -> Win32/Packed.Autoit.E.Gen suspicious application, a variant of Win32/Tifaut.C worm
+FILE -> g:\Scan\Data\1153
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sirefef.EV trojan
+FILE -> g:\Scan\Data\1154
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.L application
+FILE -> g:\Scan\Data\1155
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1156
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/CazinoSilver potentially unwanted application
+FILE -> g:\Scan\Data\1158
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAQ trojan
+FILE -> g:\Scan\Data\1159
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJS application
+FILE -> g:\Scan\Data\116
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1161
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Delf.QTN trojan
+FILE -> g:\Scan\Data\1162
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon trojan
+FILE -> g:\Scan\Data\1163
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio.Packed.AE potentially unwanted application
+FILE -> g:\Scan\Data\1164
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1165
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.GoRedir.A application
+FILE -> g:\Scan\Data\1166
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBQ trojan
+FILE -> g:\Scan\Data\1167
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1168
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Spy.Keylogger.TY trojan
+FILE -> g:\Scan\Data\1170
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\1171
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/ServStart.AQ trojan
+FILE -> g:\Scan\Data\1172
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1173
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Remtasu.V trojan
+FILE -> g:\Scan\Data\1174
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toggle potentially unwanted application
+FILE -> g:\Scan\Data\1175
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.QQTen.NAN trojan
+FILE -> g:\Scan\Data\1176
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\1177
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1178
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFSA trojan
+FILE -> g:\Scan\Data\118
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1180
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVN worm
+FILE -> g:\Scan\Data\1181
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Agent.RIX trojan
+FILE -> g:\Scan\Data\1184
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1185
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\1187
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFFG trojan
+FILE -> g:\Scan\Data\1189
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.DV trojan
+FILE -> g:\Scan\Data\119
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Bifrose.NLW trojan
+FILE -> g:\Scan\Data\1191
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.UDI trojan
+FILE -> g:\Scan\Data\1195
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAQ trojan
+FILE -> g:\Scan\Data\1196
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.BHO.NCS trojan
+FILE -> g:\Scan\Data\1197
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1199
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCY trojan
+FILE -> g:\Scan\Data\12
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.Q potentially unwanted application
+FILE -> g:\Scan\Data\1200
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1201
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGGJ trojan
+FILE -> g:\Scan\Data\1202
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.BBVI trojan
+FILE -> g:\Scan\Data\1203
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AJLT trojan
+FILE -> g:\Scan\Data\1204
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Toolbar.MyWebSearch.R potentially unwanted application
+FILE -> g:\Scan\Data\1205
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1206
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1207
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGSW trojan
+FILE -> g:\Scan\Data\1208
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1209
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1210
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1211
+        ARCHIVE -> Yes
+        PACKERS -> 7ZSD, CHROMEEXTENSION, ZIP
+        INFILTRATIONS -> Win32/Adware.MultiPlug.A application
+FILE -> g:\Scan\Data\1214
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.JW trojan
+FILE -> g:\Scan\Data\1216
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1217
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.SRG trojan
+FILE -> g:\Scan\Data\1218
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ASS worm
+FILE -> g:\Scan\Data\1219
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUO worm
+FILE -> g:\Scan\Data\1221
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toggle.A potentially unwanted application
+FILE -> g:\Scan\Data\1224
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1226
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.WNQ trojan
+FILE -> g:\Scan\Data\1227
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality.NAR virus
+FILE -> g:\Scan\Data\1229
+        ARCHIVE -> No
+        INFILTRATIONS -> MSIL/Injector.ACB trojan
+FILE -> g:\Scan\Data\1232
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1233
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Vnfraye.A trojan
+FILE -> g:\Scan\Data\1234
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1237
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.KS worm
+FILE -> g:\Scan\Data\1239
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Dorkbot.B worm
+FILE -> g:\Scan\Data\124
+        ARCHIVE -> No
+        INFILTRATIONS -> MSIL/Spy.Keylogger.BF trojan
+FILE -> g:\Scan\Data\1240
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Simda.B trojan
+FILE -> g:\Scan\Data\1241
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spatet.T trojan
+FILE -> g:\Scan\Data\1242
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Iyeclore.J trojan
+FILE -> g:\Scan\Data\1243
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGZI trojan
+FILE -> g:\Scan\Data\1244
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1245
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFNP trojan
+FILE -> g:\Scan\Data\1246
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBE trojan
+FILE -> g:\Scan\Data\1247
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\125
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUV worm
+FILE -> g:\Scan\Data\1250
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.1ClickDownload.C application, a variant of Generik.CAQIEXB potentially unwanted application
+FILE -> g:\Scan\Data\1251
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.SVD trojan
+FILE -> g:\Scan\Data\1255
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.BK potentially unwanted application
+FILE -> g:\Scan\Data\1257
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGYU trojan
+FILE -> g:\Scan\Data\1258
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\1259
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.CCM trojan
+FILE -> g:\Scan\Data\126
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.SJO trojan
+FILE -> g:\Scan\Data\1260
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUI worm
+FILE -> g:\Scan\Data\1261
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Sefnit.CD trojan
+FILE -> g:\Scan\Data\1262
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.VA trojan
+FILE -> g:\Scan\Data\1263
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\1264
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1265
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Poison trojan
+FILE -> g:\Scan\Data\1266
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\1269
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1270
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1271
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Unruy.BK trojan
+FILE -> g:\Scan\Data\1272
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1273
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/BHO.ODI trojan
+FILE -> g:\Scan\Data\1274
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Koutodoor.HM trojan
+FILE -> g:\Scan\Data\1275
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WSearch.BB application
+FILE -> g:\Scan\Data\1276
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.K application
+FILE -> g:\Scan\Data\1277
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\1278
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUU worm
+FILE -> g:\Scan\Data\1279
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/StartPage.OON trojan
+FILE -> g:\Scan\Data\128
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Adload.NJO trojan
+FILE -> g:\Scan\Data\1280.dll
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Induc.A virus
+FILE -> g:\Scan\Data\1281
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1282
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1283
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1284
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.PGB trojan
+FILE -> g:\Scan\Data\1285
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1286
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1287
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1288
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Virut.NEK virus
+FILE -> g:\Scan\Data\1289
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\129
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.PYJ trojan
+FILE -> g:\Scan\Data\1290
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1291
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1292
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1293
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1294
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1295
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1296
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1297
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1298
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\130
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AAMP trojan
+FILE -> g:\Scan\Data\1300
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1301
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1302
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1304
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\1305
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1306
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1307
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1308
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1309
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.Delf.NHG trojan
+FILE -> g:\Scan\Data\131
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1310
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1311
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1312
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1313
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1314
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\1315
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1316
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.F potentially unwanted application
+FILE -> g:\Scan\Data\1317
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1318
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1319
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\132
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1320
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1321
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1322
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1323
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1324
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1325
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1326
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1329
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDropper.Agent.PTN trojan
+FILE -> g:\Scan\Data\1331
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pronny.MJ worm
+FILE -> g:\Scan\Data\1332
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/RiskWare.PEMalform.B application
+FILE -> g:\Scan\Data\1335
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1336
+        ARCHIVE -> Yes
+        PACKERS -> INSTALLMATE
+        INFILTRATIONS -> Win32/InstalleRex.C potentially unwanted application
+FILE -> g:\Scan\Data\1337
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1339.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Banker.RPT trojan
+FILE -> g:\Scan\Data\134
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SpyVoltar.A trojan
+FILE -> g:\Scan\Data\1342
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.CCEI trojan
+FILE -> g:\Scan\Data\1344
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.Y trojan
+FILE -> g:\Scan\Data\1346
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.SSO trojan
+FILE -> g:\Scan\Data\1347
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAC virus
+FILE -> g:\Scan\Data\135
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFVT trojan
+FILE -> g:\Scan\Data\1351
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\1352
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toggle potentially unwanted application, Win32/Toolbar.Babylon potentially unwanted application
+FILE -> g:\Scan\Data\1356
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Y potentially unwanted application
+FILE -> g:\Scan\Data\1357
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CJ potentially unwanted application
+FILE -> g:\Scan\Data\1358
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Goblin.D.Gen virus
+FILE -> g:\Scan\Data\136
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.AK trojan
+FILE -> g:\Scan\Data\1360
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/CasOnline.I potentially unwanted application
+FILE -> g:\Scan\Data\1362
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\1363
+        ARCHIVE -> No
+        INFILTRATIONS -> MSIL/Agent.AW trojan
+FILE -> g:\Scan\Data\1364
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.GG trojan
+FILE -> g:\Scan\Data\1365
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Gen potentially unwanted application
+FILE -> g:\Scan\Data\1366
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Y potentially unwanted application
+FILE -> g:\Scan\Data\1367
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1368
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.MGK trojan
+FILE -> g:\Scan\Data\1369
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\137
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.BB.Gen virus
+FILE -> g:\Scan\Data\1370
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AWE worm
+FILE -> g:\Scan\Data\1372
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> MSIL/Solimba potentially unwanted application, a variant of MSIL/Solimba.B potentially unwanted application
+FILE -> g:\Scan\Data\1374
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGYG trojan
+FILE -> g:\Scan\Data\1375
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AET trojan
+FILE -> g:\Scan\Data\1379
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGQJ trojan
+FILE -> g:\Scan\Data\138
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\1380
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Patched.EH trojan
+FILE -> g:\Scan\Data\1382
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PriceGong.A potentially unwanted application
+FILE -> g:\Scan\Data\1383
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Bifrose.NEL trojan
+FILE -> g:\Scan\Data\1384
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Parite.B virus
+FILE -> g:\Scan\Data\1387
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PSE trojan
+FILE -> g:\Scan\Data\1389.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Vomba.AA potentially unwanted application
+FILE -> g:\Scan\Data\1391
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\1392
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ponmocup.AA trojan
+FILE -> g:\Scan\Data\1394
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.F virus
+FILE -> g:\Scan\Data\1395
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.JPT trojan
+FILE -> g:\Scan\Data\1399
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallMate.A potentially unwanted application
+FILE -> g:\Scan\Data\1400
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGYU trojan
+FILE -> g:\Scan\Data\1401
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.iBryte.B application
+FILE -> g:\Scan\Data\1402
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.QAL trojan
+FILE -> g:\Scan\Data\1403
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGZE trojan
+FILE -> g:\Scan\Data\1404
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AECP trojan
+FILE -> g:\Scan\Data\1405
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.YCH trojan
+FILE -> g:\Scan\Data\1406
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\141
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\1410
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toggle potentially unwanted application, Win32/Toolbar.Babylon potentially unwanted application
+FILE -> g:\Scan\Data\1413
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\1415
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Wapomi.A virus
+FILE -> g:\Scan\Data\1416
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Fesber.C worm
+FILE -> g:\Scan\Data\1417
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFPD trojan
+FILE -> g:\Scan\Data\1418
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1419
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGGZ trojan
+FILE -> g:\Scan\Data\142
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Urlbot.NAO trojan
+FILE -> g:\Scan\Data\1421
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.TVS trojan
+FILE -> g:\Scan\Data\1422
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Bifrose.NTA trojan
+FILE -> g:\Scan\Data\1423
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAA trojan
+FILE -> g:\Scan\Data\1424
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.P worm
+FILE -> g:\Scan\Data\1427
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGWI trojan
+FILE -> g:\Scan\Data\1429
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.P potentially unwanted application
+FILE -> g:\Scan\Data\143
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.TOV trojan
+FILE -> g:\Scan\Data\1431
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1436
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.CCEI trojan
+FILE -> g:\Scan\Data\1439
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pronny.AD worm
+FILE -> g:\Scan\Data\1440
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFPD trojan
+FILE -> g:\Scan\Data\1442
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Assil.A virus
+FILE -> g:\Scan\Data\1443
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon trojan
+FILE -> g:\Scan\Data\1444
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.PMR trojan
+FILE -> g:\Scan\Data\1445
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.DE trojan
+FILE -> g:\Scan\Data\1446
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Peerfrag.JI worm
+FILE -> g:\Scan\Data\1447
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJS application
+FILE -> g:\Scan\Data\1449
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Agent.NZE trojan
+FILE -> g:\Scan\Data\1451
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Agent.NVI trojan
+FILE -> g:\Scan\Data\1452
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.A virus
+FILE -> g:\Scan\Data\1453
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1454.zip
+        ARCHIVE -> Yes
+        PACKERS -> ZIP
+        INFILTRATIONS -> BAT/Ktulu.B virus
+FILE -> g:\Scan\Data\1455
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Conficker.X worm
+FILE -> g:\Scan\Data\1458
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/MediaGet potentially unwanted application
+FILE -> g:\Scan\Data\146
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.BV potentially unwanted application
+FILE -> g:\Scan\Data\1460
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.KBM trojan
+FILE -> g:\Scan\Data\1461
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Banker.YGK trojan
+FILE -> g:\Scan\Data\1462
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1463
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AFV trojan
+FILE -> g:\Scan\Data\1464
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.SAE trojan
+FILE -> g:\Scan\Data\1465
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.ITO trojan
+FILE -> g:\Scan\Data\1466
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.TCI trojan
+FILE -> g:\Scan\Data\1468
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\1469
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\1470
+        ARCHIVE -> Yes
+        PACKERS -> NSIS, CHM
+        INFILTRATIONS -> Win32/OpenCandy potentially unsafe application
+FILE -> g:\Scan\Data\1473.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/IRCBot.ARA trojan
+FILE -> g:\Scan\Data\1475
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.MRK trojan
+FILE -> g:\Scan\Data\1476
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGQJ trojan
+FILE -> g:\Scan\Data\1478
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.OS trojan
+FILE -> g:\Scan\Data\1479
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.F virus
+FILE -> g:\Scan\Data\148
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCO trojan
+FILE -> g:\Scan\Data\1482
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\1483
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1484
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1486
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFAW trojan
+FILE -> g:\Scan\Data\1487
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Hupigon.NKJ trojan
+FILE -> g:\Scan\Data\149
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.SHC trojan
+FILE -> g:\Scan\Data\1493
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.SXO trojan
+FILE -> g:\Scan\Data\1494
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/MediaGet potentially unwanted application
+FILE -> g:\Scan\Data\1495
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1497
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ELF trojan
+FILE -> g:\Scan\Data\1499
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\15
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AAMP trojan
+FILE -> g:\Scan\Data\150
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\1502
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Allaple.D worm
+FILE -> g:\Scan\Data\1503
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.A potentially unwanted application
+FILE -> g:\Scan\Data\1504
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/DownloadAdmin.G potentially unwanted application, Win32/DownloadAdmin.A.Gen potentially unwanted application
+FILE -> g:\Scan\Data\1507
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ARQ worm
+FILE -> g:\Scan\Data\1508
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Dialer.HC trojan
+FILE -> g:\Scan\Data\151
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.1ClickDownload.C application
+FILE -> g:\Scan\Data\1512
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Delf.PWB trojan
+FILE -> g:\Scan\Data\1513
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Virtumonde.NHD application
+FILE -> g:\Scan\Data\1514
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.D potentially unwanted application
+FILE -> g:\Scan\Data\1518
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Y potentially unwanted application
+FILE -> g:\Scan\Data\1519
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGYU trojan
+FILE -> g:\Scan\Data\1520
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Redosdru.DS trojan
+FILE -> g:\Scan\Data\1521
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJS application
+FILE -> g:\Scan\Data\1523
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.GooochiBiz.AE.Gen application
+FILE -> g:\Scan\Data\1525
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.EBI trojan
+FILE -> g:\Scan\Data\1528
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGXI trojan
+FILE -> g:\Scan\Data\1529
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\153
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.POZ trojan
+FILE -> g:\Scan\Data\1531
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.BBVI trojan
+FILE -> g:\Scan\Data\1532
+        ARCHIVE -> No
+        INFILTRATIONS -> MSIL/Hoax.ArchSMS.BB application
+FILE -> g:\Scan\Data\1533
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGYU trojan
+FILE -> g:\Scan\Data\1534
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Spy.Agent.CH trojan
+FILE -> g:\Scan\Data\1537
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.SSU trojan
+FILE -> g:\Scan\Data\1538
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Agent.RBD trojan
+FILE -> g:\Scan\Data\1539
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AFS trojan
+FILE -> g:\Scan\Data\154
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1540
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\1542
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.JXA trojan
+FILE -> g:\Scan\Data\1543
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1544
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTW trojan
+FILE -> g:\Scan\Data\1545
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallMate.A potentially unwanted application
+FILE -> g:\Scan\Data\1546
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/TrojanDropper.Agent.DV trojan
+FILE -> g:\Scan\Data\1547
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.D potentially unwanted application
+FILE -> g:\Scan\Data\1548
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1549
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUF trojan
+FILE -> g:\Scan\Data\155
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFVT trojan
+FILE -> g:\Scan\Data\1550
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.HQC trojan
+FILE -> g:\Scan\Data\1551
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PVT trojan
+FILE -> g:\Scan\Data\1552
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1553
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1554
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1556
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\1557
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUF trojan
+FILE -> g:\Scan\Data\1558
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTW trojan
+FILE -> g:\Scan\Data\1559
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Fynloski.AA trojan
+FILE -> g:\Scan\Data\156
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Tenga.gen virus
+FILE -> g:\Scan\Data\1560
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1561
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1562
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PVT trojan
+FILE -> g:\Scan\Data\1564
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1565
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Hupigon.AXBR trojan
+FILE -> g:\Scan\Data\1566
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1567
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PVT trojan
+FILE -> g:\Scan\Data\1569
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\1570
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.OVM trojan
+FILE -> g:\Scan\Data\1571
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1573
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUF trojan
+FILE -> g:\Scan\Data\1574
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTV trojan
+FILE -> g:\Scan\Data\1575
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1576
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1577
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1578
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1579
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\158
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1580
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Delf.PQM trojan
+FILE -> g:\Scan\Data\1581
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTW trojan
+FILE -> g:\Scan\Data\1583
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1584
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUF trojan
+FILE -> g:\Scan\Data\1586
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.OS trojan
+FILE -> g:\Scan\Data\1587
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVN worm
+FILE -> g:\Scan\Data\1588
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\159
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\1590
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1591
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\1592
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.P application
+FILE -> g:\Scan\Data\1593
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1594
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\1595
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1596
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.VC trojan
+FILE -> g:\Scan\Data\1597
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.FakeAlert.BBT trojan
+FILE -> g:\Scan\Data\1598
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\1599
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\160
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1600
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toggle.A potentially unwanted application
+FILE -> g:\Scan\Data\1602
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1603
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ponmocup.CU trojan
+FILE -> g:\Scan\Data\1604
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ADRV trojan
+FILE -> g:\Scan\Data\1605
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1606
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1609
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\161
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WSearch.AV application
+FILE -> g:\Scan\Data\1610
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AWG worm
+FILE -> g:\Scan\Data\1611
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\1613
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1614
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.UD worm
+FILE -> g:\Scan\Data\1618
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1619
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\162
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ARS worm
+FILE -> g:\Scan\Data\1620
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1621
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1623
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTW trojan
+FILE -> g:\Scan\Data\1624
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PVT trojan
+FILE -> g:\Scan\Data\1625
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\1626
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\1627
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1628
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\163
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBE trojan
+FILE -> g:\Scan\Data\1631
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUA trojan
+FILE -> g:\Scan\Data\1632
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTW trojan
+FILE -> g:\Scan\Data\1634
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1635
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTW trojan
+FILE -> g:\Scan\Data\1636
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\1637
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NHL application
+FILE -> g:\Scan\Data\1638
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1639
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\164
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1641
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTW trojan
+FILE -> g:\Scan\Data\1642
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Delf.OEW trojan
+FILE -> g:\Scan\Data\1643
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUF trojan
+FILE -> g:\Scan\Data\1644
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QAL trojan
+FILE -> g:\Scan\Data\1645
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PUC trojan
+FILE -> g:\Scan\Data\1646
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1648
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\1649
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\165
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.SFM trojan
+FILE -> g:\Scan\Data\1651
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PVT trojan
+FILE -> g:\Scan\Data\1652
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\1653
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PVT trojan
+FILE -> g:\Scan\Data\1654
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\1655
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\1657
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\1659
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTZ trojan
+FILE -> g:\Scan\Data\166
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Nutiliers.A trojan
+FILE -> g:\Scan\Data\1660
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1661
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.BWEJ trojan
+FILE -> g:\Scan\Data\1663
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Beebone.H trojan
+FILE -> g:\Scan\Data\1664
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1666
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\1667
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTX trojan
+FILE -> g:\Scan\Data\1668
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Fynloski.AA trojan
+FILE -> g:\Scan\Data\1669
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUQ trojan
+FILE -> g:\Scan\Data\167
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1670
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.SEB trojan
+FILE -> g:\Scan\Data\1671
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\1672
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Mypis.BB virus
+FILE -> g:\Scan\Data\1674
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AQW worm
+FILE -> g:\Scan\Data\1675
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1676
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.NDI trojan
+FILE -> g:\Scan\Data\1678
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\168
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Farfli.AY trojan
+FILE -> g:\Scan\Data\1682
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\1683
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallMate.A potentially unwanted application
+FILE -> g:\Scan\Data\1684
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WintionalityChecker.AF application
+FILE -> g:\Scan\Data\1685
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Carberp.AJ trojan
+FILE -> g:\Scan\Data\1688
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Fynloski.AA trojan
+FILE -> g:\Scan\Data\169
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SpyVoltar.A trojan
+FILE -> g:\Scan\Data\1692
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.Y worm
+FILE -> g:\Scan\Data\1694
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1695
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1696
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFXC trojan
+FILE -> g:\Scan\Data\1698
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/HackTool.Patcher.T potentially unsafe application
+FILE -> g:\Scan\Data\17
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\170
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\1700
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.XC trojan
+FILE -> g:\Scan\Data\1701
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.BHO.NCS trojan
+FILE -> g:\Scan\Data\1702
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1703
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio.HackTool.A potentially unwanted application
+FILE -> g:\Scan\Data\1706
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1707
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Farfli.KA trojan
+FILE -> g:\Scan\Data\1708
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1709
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.Y trojan
+FILE -> g:\Scan\Data\1710
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Zlob trojan
+FILE -> g:\Scan\Data\1711
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1713
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.U worm
+FILE -> g:\Scan\Data\1715
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/VB.NQT worm
+FILE -> g:\Scan\Data\1716.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/VB.NTW worm
+FILE -> g:\Scan\Data\1717
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1718
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.P application
+FILE -> g:\Scan\Data\1719
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.IBO trojan
+FILE -> g:\Scan\Data\172
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.JWH trojan
+FILE -> g:\Scan\Data\1722
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCF trojan
+FILE -> g:\Scan\Data\1723
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.T virus
+FILE -> g:\Scan\Data\1724
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Wapomi.U virus
+FILE -> g:\Scan\Data\1726
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1727
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AC worm
+FILE -> g:\Scan\Data\1731
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Rozena.ED trojan
+FILE -> g:\Scan\Data\1734
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Dorkbot.B worm
+FILE -> g:\Scan\Data\1735
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AD trojan
+FILE -> g:\Scan\Data\1736
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFAV trojan
+FILE -> g:\Scan\Data\1738
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.YN trojan
+FILE -> g:\Scan\Data\1739
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\174
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\1741
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.1ClickDownload.G application
+FILE -> g:\Scan\Data\1742
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAQ trojan
+FILE -> g:\Scan\Data\1745
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\1746
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.SPS trojan
+FILE -> g:\Scan\Data\1747
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1748
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.X virus
+FILE -> g:\Scan\Data\1749
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toggle potentially unwanted application, Win32/Toolbar.Babylon potentially unwanted application
+FILE -> g:\Scan\Data\1750
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Parite.B virus
+FILE -> g:\Scan\Data\1753
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.UDI trojan
+FILE -> g:\Scan\Data\1756
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.AJAO trojan
+FILE -> g:\Scan\Data\1758
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGWN trojan
+FILE -> g:\Scan\Data\176
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1760
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\1761
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1762
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Chekafev.AG trojan
+FILE -> g:\Scan\Data\1763
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.L trojan
+FILE -> g:\Scan\Data\1764
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.UDI trojan
+FILE -> g:\Scan\Data\1765
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ACMS trojan
+FILE -> g:\Scan\Data\1766
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\1767
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Olmarik.ZC trojan
+FILE -> g:\Scan\Data\1768
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1770
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.D potentially unwanted application
+FILE -> g:\Scan\Data\1772
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.EGW trojan
+FILE -> g:\Scan\Data\1773
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1775
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\1776
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAO trojan
+FILE -> g:\Scan\Data\1777
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1778
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Inject.NDJ trojan
+FILE -> g:\Scan\Data\1780
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AITB trojan
+FILE -> g:\Scan\Data\1781
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1786
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1787
+        ARCHIVE -> Yes
+        PACKERS -> CRUNCH
+        INFILTRATIONS -> a variant of Win32/Bifrose.NUR trojan
+FILE -> g:\Scan\Data\1788
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFHN trojan
+FILE -> g:\Scan\Data\1789
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.F virus
+FILE -> g:\Scan\Data\179
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\1790
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1791
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Chinflej.AK trojan
+FILE -> g:\Scan\Data\1792
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1794
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Qhost.A worm
+FILE -> g:\Scan\Data\1795
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.U worm
+FILE -> g:\Scan\Data\1797
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.YW trojan
+FILE -> g:\Scan\Data\1798
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AI worm
+FILE -> g:\Scan\Data\1799
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\18
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFVT trojan
+FILE -> g:\Scan\Data\1800
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1802
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\1804
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFXC trojan
+FILE -> g:\Scan\Data\1805
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Simda.B trojan
+FILE -> g:\Scan\Data\1806
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Usteal.C trojan
+FILE -> g:\Scan\Data\1807
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Delf.PH worm
+FILE -> g:\Scan\Data\1808
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1809
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1810
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1811
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.QAL trojan
+FILE -> g:\Scan\Data\1812
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFZA trojan
+FILE -> g:\Scan\Data\1817
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1821
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Delf.QSJ trojan
+FILE -> g:\Scan\Data\1823
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1824
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.Y worm
+FILE -> g:\Scan\Data\1825
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.X virus
+FILE -> g:\Scan\Data\1829
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUD worm
+FILE -> g:\Scan\Data\183
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1830
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.DEG trojan
+FILE -> g:\Scan\Data\1831
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Injector.GAD trojan
+FILE -> g:\Scan\Data\1832
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.LTM trojan
+FILE -> g:\Scan\Data\1833
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1836
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Hoax.ArchSMS.NF application
+FILE -> g:\Scan\Data\1839.com
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/VB.NUN worm
+FILE -> g:\Scan\Data\184
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\1840
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1842
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBR trojan
+FILE -> g:\Scan\Data\1843
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAM trojan
+FILE -> g:\Scan\Data\1844
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.JW trojan
+FILE -> g:\Scan\Data\1845
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.W potentially unwanted application
+FILE -> g:\Scan\Data\1846
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Ranbyus.F trojan
+FILE -> g:\Scan\Data\1848
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\1849
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGDY trojan
+FILE -> g:\Scan\Data\185
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\1851
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Patched.EH trojan
+FILE -> g:\Scan\Data\1852
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1854
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\1855
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Koutodoor.HM trojan
+FILE -> g:\Scan\Data\1856
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.Cinmus application
+FILE -> g:\Scan\Data\1857
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1858
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1860
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.PDK trojan
+FILE -> g:\Scan\Data\1861
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1862
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBU trojan
+FILE -> g:\Scan\Data\1863
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1864
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1865
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\1866
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1869
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\187
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1870
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1871
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1872
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.PTG trojan
+FILE -> g:\Scan\Data\1874
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1875
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1876
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1877
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.APV trojan
+FILE -> g:\Scan\Data\1878
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.Y worm
+FILE -> g:\Scan\Data\188
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\1880
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1881
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1882
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1884
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1885
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PUN trojan
+FILE -> g:\Scan\Data\1886
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1887
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1888
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1889
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\189
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/BHO.OBT trojan
+FILE -> g:\Scan\Data\1890
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\1891
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Y potentially unwanted application
+FILE -> g:\Scan\Data\1892
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1893
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1894
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.PGB trojan
+FILE -> g:\Scan\Data\1895
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1896
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1897
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1898
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGZM trojan
+FILE -> g:\Scan\Data\1899
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\19
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Prodatect.BL trojan
+FILE -> g:\Scan\Data\190
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCL trojan
+FILE -> g:\Scan\Data\1900
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\1901
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.PTG trojan
+FILE -> g:\Scan\Data\1902
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1903
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1904
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1905
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1906
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Iconomon.A trojan
+FILE -> g:\Scan\Data\1908
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.OH worm
+FILE -> g:\Scan\Data\1909
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1911
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1912
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1913
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.PDK trojan
+FILE -> g:\Scan\Data\1915
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.Delf.JW worm
+FILE -> g:\Scan\Data\1916
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.OHY trojan
+FILE -> g:\Scan\Data\1917
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.BHO.NCU trojan
+FILE -> g:\Scan\Data\1918
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAA trojan
+FILE -> g:\Scan\Data\1919
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\192
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1920
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1922
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1923
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\1924
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1925
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1926
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1927
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\1928
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1929
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Koutodoor.GU trojan
+FILE -> g:\Scan\Data\193
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WintionalityChecker.AF application
+FILE -> g:\Scan\Data\1930
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1931
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CS potentially unwanted application
+FILE -> g:\Scan\Data\1932
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1933
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CS potentially unwanted application
+FILE -> g:\Scan\Data\1934
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1935
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.X virus
+FILE -> g:\Scan\Data\1936
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.W virus
+FILE -> g:\Scan\Data\1938
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1939
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WSearch.AU application
+FILE -> g:\Scan\Data\1940
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1941
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.OUS trojan
+FILE -> g:\Scan\Data\1942
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1943
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1944
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.TF trojan
+FILE -> g:\Scan\Data\1945
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\1946
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1947
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\1948
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AEO trojan
+FILE -> g:\Scan\Data\1949
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.DesktopLightning.AA application
+FILE -> g:\Scan\Data\1950
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.HCR trojan
+FILE -> g:\Scan\Data\1951
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1953
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1954
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Koutodoor.GU trojan
+FILE -> g:\Scan\Data\1956
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1957
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\1958
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVN worm
+FILE -> g:\Scan\Data\1959
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Spy.Agent.BP trojan
+FILE -> g:\Scan\Data\1960
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WSearch.AU application
+FILE -> g:\Scan\Data\1961
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AETZ trojan
+FILE -> g:\Scan\Data\1962
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1963
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\1965
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Wauchos.A trojan
+FILE -> g:\Scan\Data\1967
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon.NWC trojan
+FILE -> g:\Scan\Data\1968
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1969
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Delf.PXF trojan
+FILE -> g:\Scan\Data\197
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.OME trojan
+FILE -> g:\Scan\Data\1970
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Mabezat.H virus
+FILE -> g:\Scan\Data\1972
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1973
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\1974
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBY trojan
+FILE -> g:\Scan\Data\1975
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.PTG trojan
+FILE -> g:\Scan\Data\1976
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.POT trojan
+FILE -> g:\Scan\Data\1977
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAC virus
+FILE -> g:\Scan\Data\1978
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.PGB trojan
+FILE -> g:\Scan\Data\1979
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1980
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\1981
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\1983
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AT worm
+FILE -> g:\Scan\Data\1985
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.P application
+FILE -> g:\Scan\Data\1986
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.BHF trojan
+FILE -> g:\Scan\Data\1987
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\1989
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFRN trojan
+FILE -> g:\Scan\Data\199
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.PSW.VB.H worm
+FILE -> g:\Scan\Data\1991
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/DownVision.AD potentially unwanted application
+FILE -> g:\Scan\Data\1994
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AJLG trojan
+FILE -> g:\Scan\Data\1996
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/LockScreen.ABO trojan
+FILE -> g:\Scan\Data\1998
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\1999
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\2.td
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Induc virus, a variant of Win32/TrojanDownloader.Delf.PWL trojan, a variant of Win32/Induc.A virus
+FILE -> g:\Scan\Data\20
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.R worm
+FILE -> g:\Scan\Data\200
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.DV trojan
+FILE -> g:\Scan\Data\2000
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Bifrose.NDU trojan
+FILE -> g:\Scan\Data\2002
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Server-Proxy.Socks4Proxy.A potentially unsafe application
+FILE -> g:\Scan\Data\2003
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.IRCBot.GQ worm
+FILE -> g:\Scan\Data\2004
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\2006
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFUN trojan
+FILE -> g:\Scan\Data\2007
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AT worm
+FILE -> g:\Scan\Data\2008
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\2009
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/UltraReach potentially unsafe application
+FILE -> g:\Scan\Data\201
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.VGL trojan
+FILE -> g:\Scan\Data\2011
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Goblin.D.Gen virus
+FILE -> g:\Scan\Data\2012
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AJPJ trojan
+FILE -> g:\Scan\Data\2013
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\2015
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.W virus
+FILE -> g:\Scan\Data\2016
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.ED trojan
+FILE -> g:\Scan\Data\2017
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\2018
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBQ trojan
+FILE -> g:\Scan\Data\2019
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\202
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.NOM worm
+FILE -> g:\Scan\Data\2020
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAN trojan
+FILE -> g:\Scan\Data\2021
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.VB.NSX trojan
+FILE -> g:\Scan\Data\2022
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.Delf.NLX trojan
+FILE -> g:\Scan\Data\2023
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/KeyLogger.Ardamax.NBF application
+FILE -> g:\Scan\Data\2024
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\2025
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.MoleboxUltra.A suspicious application
+FILE -> g:\Scan\Data\2026
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/MediaGet potentially unwanted application
+FILE -> g:\Scan\Data\2028
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.KeyLogger.NTM trojan
+FILE -> g:\Scan\Data\2029
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AJGK trojan
+FILE -> g:\Scan\Data\203
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\2031
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.VB.NQA trojan
+FILE -> g:\Scan\Data\2032
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Koutodoor.GU trojan
+FILE -> g:\Scan\Data\2033
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.K application
+FILE -> g:\Scan\Data\2034
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.CN worm
+FILE -> g:\Scan\Data\2035.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.VB.NJY trojan
+FILE -> g:\Scan\Data\204
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/KillAV.NLX trojan
+FILE -> g:\Scan\Data\2040.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Banker.YOO trojan
+FILE -> g:\Scan\Data\2041.part
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Toolbar.Widgi potentially unwanted application
+FILE -> g:\Scan\Data\2043.zip
+        ARCHIVE -> Yes
+        PACKERS -> ZIP
+        INFILTRATIONS -> Kyjak trojan
+FILE -> g:\Scan\Data\2045.vexe
+        ARCHIVE -> Yes
+        PACKERS -> PEBUNDLE
+        INFILTRATIONS -> a variant of Win32/Adware.VrBrothers potentially unwanted application
+FILE -> g:\Scan\Data\2047.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.Themida suspicious application
+FILE -> g:\Scan\Data\205
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\2051.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/VB.NSP worm
+FILE -> g:\Scan\Data\2054.dll
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Induc.A virus
+FILE -> g:\Scan\Data\2055.dll
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Banload.OEI trojan
+FILE -> g:\Scan\Data\2056.td
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/BaiduSearch potentially unwanted application
+FILE -> g:\Scan\Data\2058.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Bancos.ODE trojan
+FILE -> g:\Scan\Data\2060.rra
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Induc.A virus
+FILE -> g:\Scan\Data\2061.bc!
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Induc virus, a variant of Win32/TrojanDownloader.Delf.PWL trojan
+FILE -> g:\Scan\Data\2062.exe
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Induc virus, a variant of Win32/TrojanDownloader.Delf.PWL trojan
+FILE -> g:\Scan\Data\2063.td
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Induc virus, a variant of Win32/TrojanDownloader.Delf.PWL trojan, a variant of Win32/Induc.A virus
+FILE -> g:\Scan\Data\2064.exe
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Induc virus, a variant of Win32/TrojanDownloader.Delf.PWL trojan
+FILE -> g:\Scan\Data\2065.td
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Induc virus, a variant of Win32/TrojanDownloader.Delf.PWL trojan, a variant of Win32/Induc.A virus
+FILE -> g:\Scan\Data\2067.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.Agent.NJW trojan
+FILE -> g:\Scan\Data\2068.008
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Vomba.AA potentially unwanted application
+FILE -> g:\Scan\Data\2069.part
+        ARCHIVE -> Yes
+        PACKERS -> AUTOIT
+        INFILTRATIONS -> a variant of Win32/Injector.BWA trojan, Win32/Bifrose.NEL trojan
+FILE -> g:\Scan\Data\207
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AD trojan
+FILE -> g:\Scan\Data\2070.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Wauchos.A trojan
+FILE -> g:\Scan\Data\2071.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.Agent.NJW trojan
+FILE -> g:\Scan\Data\2072.exe
+        ARCHIVE -> Yes
+        PACKERS -> RAR
+        INFILTRATIONS -> a variant of Win32/Spy.Banker.PDI trojan
+FILE -> g:\Scan\Data\2073.jpg
+        ARCHIVE -> Yes
+        PACKERS -> RAR
+        INFILTRATIONS -> a variant of Win32/Spy.Banker.PDI trojan
+FILE -> g:\Scan\Data\2074.td
+        ARCHIVE -> Yes
+        PACKERS -> ZIP
+        INFILTRATIONS -> Win32/Spy.Agent.NOM trojan
+FILE -> g:\Scan\Data\208
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTF trojan
+FILE -> g:\Scan\Data\21
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\210
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\211
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.AF virus
+FILE -> g:\Scan\Data\212
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.XMQ trojan
+FILE -> g:\Scan\Data\213
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\214
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Mabezat.H virus
+FILE -> g:\Scan\Data\215
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGZI trojan
+FILE -> g:\Scan\Data\216
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.FakeAlert.NL trojan
+FILE -> g:\Scan\Data\217
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\218
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.PLA trojan
+FILE -> g:\Scan\Data\219
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\22
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\220
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AWD worm
+FILE -> g:\Scan\Data\221
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.PMH trojan
+FILE -> g:\Scan\Data\222
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Autoit.HD worm
+FILE -> g:\Scan\Data\224
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AQP worm
+FILE -> g:\Scan\Data\225
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.QAL trojan
+FILE -> g:\Scan\Data\227
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.BA worm
+FILE -> g:\Scan\Data\228
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\23
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SpyVoltar.A trojan
+FILE -> g:\Scan\Data\230
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.MMK trojan
+FILE -> g:\Scan\Data\231
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Soft32Downloader.C potentially unwanted application
+FILE -> g:\Scan\Data\232
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.TOV trojan
+FILE -> g:\Scan\Data\234
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.Y trojan
+FILE -> g:\Scan\Data\237
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\238
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\239
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AQE worm
+FILE -> g:\Scan\Data\24
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFRV trojan
+FILE -> g:\Scan\Data\240
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFBP trojan
+FILE -> g:\Scan\Data\241
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\242
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\243
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\245
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.UDI trojan
+FILE -> g:\Scan\Data\247
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.MGK trojan
+FILE -> g:\Scan\Data\249
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.AY virus
+FILE -> g:\Scan\Data\250
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.BA virus
+FILE -> g:\Scan\Data\251
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.OneStep.B application
+FILE -> g:\Scan\Data\252
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\253
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.NZL trojan
+FILE -> g:\Scan\Data\254
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\256
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJS application
+FILE -> g:\Scan\Data\257
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Zurgop.AT trojan
+FILE -> g:\Scan\Data\259
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Cakl.NAF trojan
+FILE -> g:\Scan\Data\26
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\261
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDropper.Delf.NMB trojan
+FILE -> g:\Scan\Data\262
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Conficker.AA worm
+FILE -> g:\Scan\Data\263
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon trojan
+FILE -> g:\Scan\Data\264
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.NYC trojan
+FILE -> g:\Scan\Data\266
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAN trojan
+FILE -> g:\Scan\Data\267
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Toolbar.Montiera.A potentially unwanted application
+FILE -> g:\Scan\Data\268
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\269
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AH worm
+FILE -> g:\Scan\Data\27
+        ARCHIVE -> No
+        INFILTRATIONS -> LNK/Autostart.A trojan
+FILE -> g:\Scan\Data\271
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> a variant of Win32/Toolbar.Babylon.C potentially unwanted application
+FILE -> g:\Scan\Data\272
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFUN trojan
+FILE -> g:\Scan\Data\275
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Delf.QMF trojan
+FILE -> g:\Scan\Data\276
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\277
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/VB.NIL trojan
+FILE -> g:\Scan\Data\278
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\279
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Nutiliers.A trojan
+FILE -> g:\Scan\Data\28
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.GTB trojan
+FILE -> g:\Scan\Data\280
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\281
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Redosdru.IA trojan
+FILE -> g:\Scan\Data\282
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUH worm
+FILE -> g:\Scan\Data\283
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\284
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.BB.Gen virus
+FILE -> g:\Scan\Data\285
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SpyVoltar.A trojan
+FILE -> g:\Scan\Data\287
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.FakeMSN.NDC trojan
+FILE -> g:\Scan\Data\288
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\289
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Wigon.OX trojan
+FILE -> g:\Scan\Data\29
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Sadenav.AI trojan
+FILE -> g:\Scan\Data\290
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\291
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Kryptik.DZ trojan
+FILE -> g:\Scan\Data\292
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Slugin.A virus
+FILE -> g:\Scan\Data\293
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\294
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Usteal.C trojan
+FILE -> g:\Scan\Data\295
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.RMV trojan
+FILE -> g:\Scan\Data\298
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJS application
+FILE -> g:\Scan\Data\30
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\300
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\302
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\304
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Y potentially unwanted application
+FILE -> g:\Scan\Data\305
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Urlbot.NAG trojan
+FILE -> g:\Scan\Data\306
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCJ trojan
+FILE -> g:\Scan\Data\307
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio potentially unwanted application
+FILE -> g:\Scan\Data\308
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore.Y potentially unwanted application
+FILE -> g:\Scan\Data\309
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\310
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Farfli.KA trojan
+FILE -> g:\Scan\Data\311
+        ARCHIVE -> Yes
+        PACKERS -> INSTALLMATE
+        INFILTRATIONS -> Win32/InstalleRex.C potentially unwanted application
+FILE -> g:\Scan\Data\312
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.FHP trojan
+FILE -> g:\Scan\Data\313
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJE application
+FILE -> g:\Scan\Data\314
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.ZR trojan
+FILE -> g:\Scan\Data\315
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ATC worm
+FILE -> g:\Scan\Data\316
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFXC trojan
+FILE -> g:\Scan\Data\317
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDropper.Agent.OQE trojan
+FILE -> g:\Scan\Data\318
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCV trojan
+FILE -> g:\Scan\Data\32
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Redosdru.AW trojan
+FILE -> g:\Scan\Data\322
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\324
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.OS trojan
+FILE -> g:\Scan\Data\327
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Usteal.A trojan
+FILE -> g:\Scan\Data\328
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.AY virus
+FILE -> g:\Scan\Data\33
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGYG trojan
+FILE -> g:\Scan\Data\330
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\331
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AEYI trojan
+FILE -> g:\Scan\Data\332
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.RXV trojan
+FILE -> g:\Scan\Data\333
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.LR worm
+FILE -> g:\Scan\Data\334
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Agent.FW trojan
+FILE -> g:\Scan\Data\336
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\337
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\339
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\340.exe
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDropper.Agent.PXQ trojan
+FILE -> g:\Scan\Data\342
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.D potentially unwanted application
+FILE -> g:\Scan\Data\344
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.X potentially unwanted application
+FILE -> g:\Scan\Data\345
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.AK trojan
+FILE -> g:\Scan\Data\346
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pronny.AK worm
+FILE -> g:\Scan\Data\347
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.Themida suspicious application
+FILE -> g:\Scan\Data\349
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Mabezat.H virus
+FILE -> g:\Scan\Data\35
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ATQW trojan
+FILE -> g:\Scan\Data\350
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAA trojan
+FILE -> g:\Scan\Data\351
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Olmarik.AWO trojan
+FILE -> g:\Scan\Data\352
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.BK potentially unwanted application
+FILE -> g:\Scan\Data\353
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\354
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/VB.QMF trojan
+FILE -> g:\Scan\Data\355
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.W potentially unwanted application
+FILE -> g:\Scan\Data\356
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Mabezat.H virus
+FILE -> g:\Scan\Data\357
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\358
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\361
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCL trojan
+FILE -> g:\Scan\Data\362
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\363
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PcClient.NGE trojan
+FILE -> g:\Scan\Data\364
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.V virus
+FILE -> g:\Scan\Data\366
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.BLMK trojan
+FILE -> g:\Scan\Data\367
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\368
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.L application
+FILE -> g:\Scan\Data\369
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\37
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVM worm
+FILE -> g:\Scan\Data\370
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/DownloadAdmin.G potentially unwanted application, Win32/DownloadAdmin.A.Gen potentially unwanted application
+FILE -> g:\Scan\Data\371
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AdvancedKeylogger.AA potentially unsafe application
+FILE -> g:\Scan\Data\373
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\375
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AT worm
+FILE -> g:\Scan\Data\376
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/StartPage.OCY trojan
+FILE -> g:\Scan\Data\378
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\379
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.UB worm
+FILE -> g:\Scan\Data\380
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGWG trojan
+FILE -> g:\Scan\Data\381
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBZ trojan
+FILE -> g:\Scan\Data\382
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\383
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.GIP trojan
+FILE -> g:\Scan\Data\384
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AAMP trojan
+FILE -> g:\Scan\Data\385
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFNP trojan
+FILE -> g:\Scan\Data\386
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.V virus
+FILE -> g:\Scan\Data\387
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVN worm
+FILE -> g:\Scan\Data\388
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Bifrose.NDU trojan
+FILE -> g:\Scan\Data\389
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.Themida suspicious application
+FILE -> g:\Scan\Data\390
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVP worm
+FILE -> g:\Scan\Data\392
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AT worm
+FILE -> g:\Scan\Data\393
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\395
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AHH trojan
+FILE -> g:\Scan\Data\396
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Bifrose.NTA trojan
+FILE -> g:\Scan\Data\397
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\399
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\40
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\400
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\401
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.V virus
+FILE -> g:\Scan\Data\402
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.QLZ trojan
+FILE -> g:\Scan\Data\403
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QAY trojan
+FILE -> g:\Scan\Data\405
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFRB trojan
+FILE -> g:\Scan\Data\406
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\407
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.F virus
+FILE -> g:\Scan\Data\408
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\409
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.IBO trojan
+FILE -> g:\Scan\Data\41
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.OS trojan
+FILE -> g:\Scan\Data\411
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.BGB trojan
+FILE -> g:\Scan\Data\412
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio potentially unwanted application
+FILE -> g:\Scan\Data\413
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ADXQ trojan
+FILE -> g:\Scan\Data\415
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality.NAR virus
+FILE -> g:\Scan\Data\417
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon.NWS trojan
+FILE -> g:\Scan\Data\418
+        ARCHIVE -> Yes
+        PACKERS -> INSTALLMATE
+        INFILTRATIONS -> Win32/InstalleRex.C potentially unwanted application
+FILE -> g:\Scan\Data\419
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CU potentially unwanted application
+FILE -> g:\Scan\Data\42
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\420
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.AVA worm
+FILE -> g:\Scan\Data\421
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Agent.RIX trojan
+FILE -> g:\Scan\Data\422
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\423
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\426
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUK worm
+FILE -> g:\Scan\Data\428
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFFG trojan
+FILE -> g:\Scan\Data\43
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon trojan
+FILE -> g:\Scan\Data\430
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTK trojan
+FILE -> g:\Scan\Data\432
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Nebuler.DA trojan
+FILE -> g:\Scan\Data\433
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\434
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\435
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGGZ trojan
+FILE -> g:\Scan\Data\436
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\437
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\438
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.AY virus
+FILE -> g:\Scan\Data\439
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUV worm
+FILE -> g:\Scan\Data\440
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.LXF trojan
+FILE -> g:\Scan\Data\441
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\443
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\446
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAC virus
+FILE -> g:\Scan\Data\447
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.TDV trojan
+FILE -> g:\Scan\Data\448
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\449
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGNS trojan
+FILE -> g:\Scan\Data\45
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/HackTool.Inject.C potentially unsafe application
+FILE -> g:\Scan\Data\450
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio.HackTool.A potentially unwanted application
+FILE -> g:\Scan\Data\451
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.IDC trojan
+FILE -> g:\Scan\Data\452
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Toolbar.Webalta.J application
+FILE -> g:\Scan\Data\454
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.ADT trojan
+FILE -> g:\Scan\Data\455
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\456
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\457
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\458
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/KillAV.NLX trojan
+FILE -> g:\Scan\Data\46
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.Delf.PJ worm
+FILE -> g:\Scan\Data\460
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\461
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTF trojan
+FILE -> g:\Scan\Data\463
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\464
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAB virus
+FILE -> g:\Scan\Data\466
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFAW trojan
+FILE -> g:\Scan\Data\467
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AAMP trojan
+FILE -> g:\Scan\Data\468
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDropper.Binder.NBH trojan
+FILE -> g:\Scan\Data\469
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\47
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Poison trojan
+FILE -> g:\Scan\Data\470
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.AVSystemCare application
+FILE -> g:\Scan\Data\471
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\472
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGDY trojan
+FILE -> g:\Scan\Data\473
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AWD worm
+FILE -> g:\Scan\Data\475
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.SRG trojan
+FILE -> g:\Scan\Data\476
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.OnLineGames.QBG trojan
+FILE -> g:\Scan\Data\477
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.Themida suspicious application
+FILE -> g:\Scan\Data\478
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\479
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.FX trojan
+FILE -> g:\Scan\Data\48
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTF trojan
+FILE -> g:\Scan\Data\480
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\482
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\483
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.RDO trojan
+FILE -> g:\Scan\Data\484
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGWC trojan
+FILE -> g:\Scan\Data\485
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.V virus
+FILE -> g:\Scan\Data\486
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\487
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUE worm
+FILE -> g:\Scan\Data\489
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\49
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.SRG trojan
+FILE -> g:\Scan\Data\490
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Delf.NHU trojan
+FILE -> g:\Scan\Data\492
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.UB worm
+FILE -> g:\Scan\Data\493
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\494
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pronny.AC worm
+FILE -> g:\Scan\Data\495
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVN worm
+FILE -> g:\Scan\Data\496
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.F virus
+FILE -> g:\Scan\Data\497
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFVT trojan
+FILE -> g:\Scan\Data\498
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.DesktopLightning.AA application
+FILE -> g:\Scan\Data\499
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAQ trojan
+FILE -> g:\Scan\Data\50
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCV trojan
+FILE -> g:\Scan\Data\500
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/VB.OZA trojan
+FILE -> g:\Scan\Data\501
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\503
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon.NRF trojan
+FILE -> g:\Scan\Data\505
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\506
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAO trojan
+FILE -> g:\Scan\Data\507
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AQ worm
+FILE -> g:\Scan\Data\508
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Delf.QTN trojan
+FILE -> g:\Scan\Data\509
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\510
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBE trojan
+FILE -> g:\Scan\Data\511
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mabezat.A virus
+FILE -> g:\Scan\Data\512
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon.NXH trojan
+FILE -> g:\Scan\Data\513
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\515
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.HO trojan
+FILE -> g:\Scan\Data\516
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PSE trojan
+FILE -> g:\Scan\Data\517
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVD worm
+FILE -> g:\Scan\Data\518
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QNE trojan
+FILE -> g:\Scan\Data\520
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.ML trojan
+FILE -> g:\Scan\Data\521
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFTH trojan
+FILE -> g:\Scan\Data\522
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.X virus
+FILE -> g:\Scan\Data\523
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.Agent.UD worm
+FILE -> g:\Scan\Data\525
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.KCU trojan
+FILE -> g:\Scan\Data\526
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\527
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\528
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Beastdoor.207 trojan
+FILE -> g:\Scan\Data\529
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFUN trojan
+FILE -> g:\Scan\Data\53
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJS application
+FILE -> g:\Scan\Data\530
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\532
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\533
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.C potentially unwanted application
+FILE -> g:\Scan\Data\534
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.H application
+FILE -> g:\Scan\Data\535
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/PSW.Agent.NOI trojan
+FILE -> g:\Scan\Data\536
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AAMP trojan
+FILE -> g:\Scan\Data\538
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AEZI trojan
+FILE -> g:\Scan\Data\54
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QAL trojan
+FILE -> g:\Scan\Data\540
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGIU trojan
+FILE -> g:\Scan\Data\541
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Dialer.HZ trojan
+FILE -> g:\Scan\Data\542
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.KS worm
+FILE -> g:\Scan\Data\545
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Simda.B trojan
+FILE -> g:\Scan\Data\546
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\547
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAD trojan
+FILE -> g:\Scan\Data\549
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.Z virus
+FILE -> g:\Scan\Data\550
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio.HackTool.A potentially unwanted application
+FILE -> g:\Scan\Data\552
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\554
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\555
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\556
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.RXV trojan
+FILE -> g:\Scan\Data\557
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NCI application
+FILE -> g:\Scan\Data\558
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFKK trojan
+FILE -> g:\Scan\Data\56
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.RYQ trojan
+FILE -> g:\Scan\Data\561
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mediyes.F trojan
+FILE -> g:\Scan\Data\562
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Agent.QBO trojan
+FILE -> g:\Scan\Data\564
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCL trojan
+FILE -> g:\Scan\Data\565
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.RDO trojan
+FILE -> g:\Scan\Data\566
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\568
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\569
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.AUE worm
+FILE -> g:\Scan\Data\57
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\570
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\571
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAB virus
+FILE -> g:\Scan\Data\572
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFOZ trojan
+FILE -> g:\Scan\Data\574
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\577
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\578
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/MediaGet potentially unwanted application
+FILE -> g:\Scan\Data\579
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\58
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.D potentially unwanted application
+FILE -> g:\Scan\Data\580
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/DllInject.C potentially unsafe application
+FILE -> g:\Scan\Data\581
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ASQ worm
+FILE -> g:\Scan\Data\582
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.C potentially unwanted application
+FILE -> g:\Scan\Data\583
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.PFG trojan
+FILE -> g:\Scan\Data\584
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PriceGong.A potentially unwanted application
+FILE -> g:\Scan\Data\585
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AC worm
+FILE -> g:\Scan\Data\588
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\59
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.YB trojan
+FILE -> g:\Scan\Data\590
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBZ trojan
+FILE -> g:\Scan\Data\591
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\592
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\593
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\594
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFZA trojan
+FILE -> g:\Scan\Data\595
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AD trojan
+FILE -> g:\Scan\Data\596
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.GHA trojan
+FILE -> g:\Scan\Data\597
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\598
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.UB worm
+FILE -> g:\Scan\Data\599
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.SCV trojan
+FILE -> g:\Scan\Data\60
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon trojan
+FILE -> g:\Scan\Data\600
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFVT trojan
+FILE -> g:\Scan\Data\601
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.Y worm
+FILE -> g:\Scan\Data\603
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Injector.RWF trojan
+FILE -> g:\Scan\Data\604
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGBZ trojan
+FILE -> g:\Scan\Data\605
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QAL trojan
+FILE -> g:\Scan\Data\607
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\608
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.NVT trojan
+FILE -> g:\Scan\Data\61
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVN worm
+FILE -> g:\Scan\Data\610
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AHTK trojan
+FILE -> g:\Scan\Data\611
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.BA worm
+FILE -> g:\Scan\Data\614
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVM worm
+FILE -> g:\Scan\Data\615
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\616
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\618
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\619
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\620
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.BHO.NJS application
+FILE -> g:\Scan\Data\623
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\624
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFFG trojan
+FILE -> g:\Scan\Data\625
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\626
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\627
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AI worm
+FILE -> g:\Scan\Data\628
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/KillAV.NNS trojan
+FILE -> g:\Scan\Data\629
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTF trojan
+FILE -> g:\Scan\Data\63
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Urlbot.NAG trojan
+FILE -> g:\Scan\Data\630
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Drstwex.B trojan
+FILE -> g:\Scan\Data\631
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pronny.AC worm
+FILE -> g:\Scan\Data\633
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AAMP trojan
+FILE -> g:\Scan\Data\634
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio potentially unwanted application
+FILE -> g:\Scan\Data\635
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ANW worm
+FILE -> g:\Scan\Data\636
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AKAH trojan
+FILE -> g:\Scan\Data\637
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\639
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.BPJ trojan
+FILE -> g:\Scan\Data\64
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFOT trojan
+FILE -> g:\Scan\Data\642
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\644
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\645
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Agent.FW trojan
+FILE -> g:\Scan\Data\646
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFPD trojan
+FILE -> g:\Scan\Data\647
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.R worm
+FILE -> g:\Scan\Data\648
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hupigon trojan
+FILE -> g:\Scan\Data\650
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/KillAV.NLX trojan
+FILE -> g:\Scan\Data\651
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SpyVoltar.A trojan
+FILE -> g:\Scan\Data\652
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFVT trojan
+FILE -> g:\Scan\Data\653
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\654
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\655
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.XA trojan
+FILE -> g:\Scan\Data\656
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\657
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Toolbar.MyWebSearch.AH potentially unwanted application
+FILE -> g:\Scan\Data\658
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AQW worm
+FILE -> g:\Scan\Data\659
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.X virus
+FILE -> g:\Scan\Data\66
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.AEP trojan
+FILE -> g:\Scan\Data\660
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Hoax.ArchSMS.HL application
+FILE -> g:\Scan\Data\661
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Drstwex.A trojan
+FILE -> g:\Scan\Data\662
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Pronny.AT worm
+FILE -> g:\Scan\Data\663
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.TCI trojan
+FILE -> g:\Scan\Data\665
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Delf.QSJ trojan
+FILE -> g:\Scan\Data\666
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFZA trojan
+FILE -> g:\Scan\Data\667
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.1ClickDownload.C application, Win32/Adware.1ClickDownload application
+FILE -> g:\Scan\Data\668
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\669
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\67
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\670
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAA trojan
+FILE -> g:\Scan\Data\671
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\673
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\674
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\675
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Mabezat.H virus
+FILE -> g:\Scan\Data\676
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\677
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\678
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.GEB trojan
+FILE -> g:\Scan\Data\679
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AMI worm
+FILE -> g:\Scan\Data\680
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.AGOL trojan
+FILE -> g:\Scan\Data\682
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.AECM trojan
+FILE -> g:\Scan\Data\685
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\686
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFAW trojan
+FILE -> g:\Scan\Data\687
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Cimag.CL trojan
+FILE -> g:\Scan\Data\688
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCJ trojan
+FILE -> g:\Scan\Data\689
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.ADPQ trojan
+FILE -> g:\Scan\Data\69
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFUN trojan
+FILE -> g:\Scan\Data\691
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\692
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.KeyLogger.OKU trojan
+FILE -> g:\Scan\Data\693
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/LockScreen.AKW trojan
+FILE -> g:\Scan\Data\695
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\697
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\698
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AFU trojan
+FILE -> g:\Scan\Data\699
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.CCEI trojan
+FILE -> g:\Scan\Data\70
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGQG trojan
+FILE -> g:\Scan\Data\700
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Spy.Agent.CH trojan
+FILE -> g:\Scan\Data\702
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PTF trojan
+FILE -> g:\Scan\Data\703
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\704
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Delf.PHT trojan
+FILE -> g:\Scan\Data\705
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\706
+        ARCHIVE -> No
+        INFILTRATIONS -> MSIL/Injector.ACB trojan
+FILE -> g:\Scan\Data\707
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.YW trojan
+FILE -> g:\Scan\Data\708
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\709
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AAMP trojan
+FILE -> g:\Scan\Data\71
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\710
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ramnit.V virus
+FILE -> g:\Scan\Data\711
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Patched.EH trojan
+FILE -> g:\Scan\Data\712
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\713
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\714
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\715
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVP worm
+FILE -> g:\Scan\Data\716
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/StartPage.UZ trojan
+FILE -> g:\Scan\Data\717
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Patched.EH trojan
+FILE -> g:\Scan\Data\718
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Redosdru.IN trojan
+FILE -> g:\Scan\Data\719
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Nebuler.DA trojan
+FILE -> g:\Scan\Data\721
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.QQPass.NKS trojan
+FILE -> g:\Scan\Data\723
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\724
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Spy.Usteal.C trojan
+FILE -> g:\Scan\Data\725
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Morto.Y worm
+FILE -> g:\Scan\Data\726
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AG trojan
+FILE -> g:\Scan\Data\727
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AHTK trojan
+FILE -> g:\Scan\Data\728
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\729
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/MediaGet potentially unwanted application
+FILE -> g:\Scan\Data\730
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.T virus
+FILE -> g:\Scan\Data\731
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\732
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\734
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Ponmocup.BN trojan
+FILE -> g:\Scan\Data\736
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Aksula.A trojan
+FILE -> g:\Scan\Data\737
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.MI trojan
+FILE -> g:\Scan\Data\739
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\740
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AJSV trojan
+FILE -> g:\Scan\Data\741
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.QQTen.NAN trojan
+FILE -> g:\Scan\Data\742
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AJ trojan
+FILE -> g:\Scan\Data\743
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\744
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\745
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.BK potentially unwanted application
+FILE -> g:\Scan\Data\747
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AJ trojan
+FILE -> g:\Scan\Data\749
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\75
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\750
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\751
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality.NAR virus
+FILE -> g:\Scan\Data\752
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\753
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AWD worm
+FILE -> g:\Scan\Data\754
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ARA worm
+FILE -> g:\Scan\Data\755
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PTA trojan
+FILE -> g:\Scan\Data\757
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/StartPage.OCY trojan
+FILE -> g:\Scan\Data\758
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.Vapsup.AY application
+FILE -> g:\Scan\Data\759
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Dialer.HZ trojan
+FILE -> g:\Scan\Data\76
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\760
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFUN trojan
+FILE -> g:\Scan\Data\761
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.Cinmus application
+FILE -> g:\Scan\Data\763
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFOZ trojan
+FILE -> g:\Scan\Data\766
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\767
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Hupigon.AXBR trojan
+FILE -> g:\Scan\Data\768
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/NoonLight.U worm
+FILE -> g:\Scan\Data\769
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAN trojan
+FILE -> g:\Scan\Data\77
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.VB.PRE trojan
+FILE -> g:\Scan\Data\770
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QBF trojan
+FILE -> g:\Scan\Data\771
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.AQE worm
+FILE -> g:\Scan\Data\772
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGEV trojan
+FILE -> g:\Scan\Data\773
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAH trojan
+FILE -> g:\Scan\Data\774
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.BH potentially unwanted application
+FILE -> g:\Scan\Data\776
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Delf.REZ trojan
+FILE -> g:\Scan\Data\777
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.TVX trojan
+FILE -> g:\Scan\Data\778
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\779
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Parite.B virus
+FILE -> g:\Scan\Data\78
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.UDI trojan
+FILE -> g:\Scan\Data\780
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ponmocup.AA trojan
+FILE -> g:\Scan\Data\781
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pronny.AC worm
+FILE -> g:\Scan\Data\782
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\784
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.BHXW trojan
+FILE -> g:\Scan\Data\786
+        ARCHIVE -> Yes
+        PACKERS -> INNO
+        INFILTRATIONS -> Win32/NoAdware potentially unwanted application
+FILE -> g:\Scan\Data\788
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\789
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sirefef.DA trojan
+FILE -> g:\Scan\Data\79
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\790
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\791
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Agent.OME trojan
+FILE -> g:\Scan\Data\792
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ALPB trojan
+FILE -> g:\Scan\Data\794
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\796
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.AH worm
+FILE -> g:\Scan\Data\797
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.BH potentially unwanted application
+FILE -> g:\Scan\Data\798
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.AntiAV.W worm
+FILE -> g:\Scan\Data\799
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\80
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.AT virus
+FILE -> g:\Scan\Data\800
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ALW worm
+FILE -> g:\Scan\Data\802
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio.Packed.S potentially unwanted application
+FILE -> g:\Scan\Data\806
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\808
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\809
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AVA worm
+FILE -> g:\Scan\Data\81
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/SpamTool.Tedroo.AG trojan
+FILE -> g:\Scan\Data\811
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.OnLineGames.QNW trojan
+FILE -> g:\Scan\Data\812
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\814
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ACMS trojan
+FILE -> g:\Scan\Data\815
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.D potentially unwanted application
+FILE -> g:\Scan\Data\816
+        ARCHIVE -> Yes
+        PACKERS -> PEBUNDLE
+        INFILTRATIONS -> a variant of Win32/Injector.EKT trojan
+FILE -> g:\Scan\Data\817
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/VBObfus.FZ trojan
+FILE -> g:\Scan\Data\818
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\819
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\82
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\821
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Wapomi.A virus
+FILE -> g:\Scan\Data\823
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\824
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCF trojan
+FILE -> g:\Scan\Data\825
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\826
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio.Packed.V potentially unwanted application
+FILE -> g:\Scan\Data\827
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Injector.SJU trojan
+FILE -> g:\Scan\Data\828
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.MYL trojan
+FILE -> g:\Scan\Data\829
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ramnit.AY virus
+FILE -> g:\Scan\Data\83
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\830
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Agent.RIX trojan
+FILE -> g:\Scan\Data\831
+        ARCHIVE -> Yes
+        PACKERS -> INNO
+        INFILTRATIONS -> Win32/Adware.SpywareCease.AD application, Win32/Adware.SpywareCease application, Win32/Adware.SpywareCease.AA application
+FILE -> g:\Scan\Data\832
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.HZ trojan
+FILE -> g:\Scan\Data\835
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\836
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFAW trojan
+FILE -> g:\Scan\Data\838
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.D potentially unwanted application
+FILE -> g:\Scan\Data\839
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\842
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.UB worm
+FILE -> g:\Scan\Data\843
+        ARCHIVE -> Yes
+        PACKERS -> ENIGMA
+        INFILTRATIONS -> a variant of Win32/FlyStudio potentially unwanted application
+FILE -> g:\Scan\Data\844
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\845
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.VGL trojan
+FILE -> g:\Scan\Data\846
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WintionalityChecker.AF application
+FILE -> g:\Scan\Data\847
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCJ trojan
+FILE -> g:\Scan\Data\848
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.P application
+FILE -> g:\Scan\Data\85
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.AUS worm
+FILE -> g:\Scan\Data\850
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.P potentially unwanted application
+FILE -> g:\Scan\Data\851
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AXFX trojan
+FILE -> g:\Scan\Data\852
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.ASF worm
+FILE -> g:\Scan\Data\853
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Fynloski.AA trojan
+FILE -> g:\Scan\Data\854
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAO trojan
+FILE -> g:\Scan\Data\855
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Adware.SystemSecurity.AK application
+FILE -> g:\Scan\Data\857
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\858
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Rootkit.Kryptik.KD trojan
+FILE -> g:\Scan\Data\859
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Injector.AQL trojan
+FILE -> g:\Scan\Data\86
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Wigon.OU trojan
+FILE -> g:\Scan\Data\860
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/MediaGet potentially unwanted application
+FILE -> g:\Scan\Data\861
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAC virus
+FILE -> g:\Scan\Data\863
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAO trojan
+FILE -> g:\Scan\Data\864
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Fynloski.AS trojan
+FILE -> g:\Scan\Data\865
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.MoleboxVS.H suspicious application
+FILE -> g:\Scan\Data\867
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.OS trojan
+FILE -> g:\Scan\Data\869
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality.H virus
+FILE -> g:\Scan\Data\87
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\870
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/InstallCore potentially unwanted application
+FILE -> g:\Scan\Data\871
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AFYL trojan
+FILE -> g:\Scan\Data\872
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Madang.B virus
+FILE -> g:\Scan\Data\874
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.BTC trojan
+FILE -> g:\Scan\Data\875
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDropper.VB.ONN trojan
+FILE -> g:\Scan\Data\877
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\878
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/AutoRun.VB.AQE worm
+FILE -> g:\Scan\Data\88
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.SuperBar application, Win32/Adware.NdotNet application, a variant of Win32/Adware.SaveNow.A application, Win32/Adware.WhenU potentially unwanted application
+FILE -> g:\Scan\Data\880
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spatet.I trojan
+FILE -> g:\Scan\Data\881
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\882
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Pronny.MJ worm
+FILE -> g:\Scan\Data\884
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.QCS trojan
+FILE -> g:\Scan\Data\885
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Banload.OHG trojan
+FILE -> g:\Scan\Data\886
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGSM trojan
+FILE -> g:\Scan\Data\887
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.1ClickDownload.AN application, Win32/Adware.1ClickDownload application
+FILE -> g:\Scan\Data\888
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\889
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\89
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/LockScreen.AJU trojan
+FILE -> g:\Scan\Data\890
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/UpToDown.B potentially unwanted application
+FILE -> g:\Scan\Data\891
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CI potentially unwanted application
+FILE -> g:\Scan\Data\892
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/SoftonicDownloader.D potentially unwanted application
+FILE -> g:\Scan\Data\893
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\894
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NCI application
+FILE -> g:\Scan\Data\895
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\896
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGQF trojan
+FILE -> g:\Scan\Data\899
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.H application
+FILE -> g:\Scan\Data\9
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGCV trojan
+FILE -> g:\Scan\Data\90
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\900
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Fynloski.AA trojan
+FILE -> g:\Scan\Data\901
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.iBryte.C application
+FILE -> g:\Scan\Data\902
+        ARCHIVE -> Yes
+        PACKERS -> INNO
+        INFILTRATIONS -> a variant of Win32/Adware.MediaFinder.D application
+FILE -> g:\Scan\Data\903
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ACU trojan
+FILE -> g:\Scan\Data\905
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\906
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.MoleboxVS.H suspicious application
+FILE -> g:\Scan\Data\907
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/TrojanDownloader.Nutiliers.A trojan
+FILE -> g:\Scan\Data\908
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Jeefo.A virus
+FILE -> g:\Scan\Data\909
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Farfli.JW trojan
+FILE -> g:\Scan\Data\91
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Gamevance.CW potentially unwanted application
+FILE -> g:\Scan\Data\911
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Wapomi.A virus
+FILE -> g:\Scan\Data\912
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Expiro.NBA virus
+FILE -> g:\Scan\Data\913
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.PFZ trojan
+FILE -> g:\Scan\Data\914
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.Baffec.AA trojan
+FILE -> g:\Scan\Data\916
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/DownloadAdmin.G potentially unwanted application, Win32/DownloadAdmin.A.Gen potentially unwanted application
+FILE -> g:\Scan\Data\917
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of MSIL/Kryptik.AZ trojan
+FILE -> g:\Scan\Data\918
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\92
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.QO worm
+FILE -> g:\Scan\Data\921
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAO trojan
+FILE -> g:\Scan\Data\923
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\925
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\927
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.WintionalityChecker.AF application
+FILE -> g:\Scan\Data\928
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\929
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AD trojan
+FILE -> g:\Scan\Data\93
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Shiz.NCF trojan
+FILE -> g:\Scan\Data\930
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.XVM trojan
+FILE -> g:\Scan\Data\932
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.Swizzor.NGC trojan
+FILE -> g:\Scan\Data\933
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/HackTool.Patcher.T potentially unsafe application
+FILE -> g:\Scan\Data\934
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.AELG trojan
+FILE -> g:\Scan\Data\935
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.VB.XW worm
+FILE -> g:\Scan\Data\937
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanClicker.Baffec.AA trojan
+FILE -> g:\Scan\Data\938
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.NBP virus
+FILE -> g:\Scan\Data\939
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.SFM trojan
+FILE -> g:\Scan\Data\941
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.CBH trojan
+FILE -> g:\Scan\Data\945
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Spy.Zbot.AAQ trojan
+FILE -> g:\Scan\Data\946
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sirefef.EV trojan
+FILE -> g:\Scan\Data\947
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.AGWC trojan
+FILE -> g:\Scan\Data\948
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/TrojanDownloader.VB.PNG trojan
+FILE -> g:\Scan\Data\950
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\951
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.OneStep.AB application
+FILE -> g:\Scan\Data\952
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/CoinMiner.N trojan
+FILE -> g:\Scan\Data\953
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\954
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\957
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Expiro.NAD virus
+FILE -> g:\Scan\Data\958
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Mydoom.Q worm
+FILE -> g:\Scan\Data\96
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/FlyStudio potentially unwanted application
+FILE -> g:\Scan\Data\960
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.BCVT trojan
+FILE -> g:\Scan\Data\961
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sality virus
+FILE -> g:\Scan\Data\963
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Delf.QTN trojan
+FILE -> g:\Scan\Data\966
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Picsys.C worm
+FILE -> g:\Scan\Data\967
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Medfos.AJ trojan
+FILE -> g:\Scan\Data\969
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Kryptik.ACJI trojan
+FILE -> g:\Scan\Data\971
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\975
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/AutoRun.Agent.AAH worm
+FILE -> g:\Scan\Data\976
+        ARCHIVE -> Yes
+        PACKERS -> NSIS
+        INFILTRATIONS -> Win32/Adware.1ClickDownload.C application
+FILE -> g:\Scan\Data\977
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/InstallCore.C potentially unwanted application
+FILE -> g:\Scan\Data\98
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Packed.VMProtect.AAN trojan
+FILE -> g:\Scan\Data\982
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Sirefef.DA trojan
+FILE -> g:\Scan\Data\984
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Virut.AV virus
+FILE -> g:\Scan\Data\985
+        ARCHIVE -> Yes
+        PACKERS -> NSIS, MSI
+        INFILTRATIONS -> NSIS/StartPage.AX trojan
+FILE -> g:\Scan\Data\986
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Agent.NVT trojan, a variant of Win32/Farfli.AEY.gen trojan
+FILE -> g:\Scan\Data\988
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/PSW.Kykymber.AA trojan
+FILE -> g:\Scan\Data\99
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.RJI trojan
+FILE -> g:\Scan\Data\991
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Injector.WKT trojan
+FILE -> g:\Scan\Data\995
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
+FILE -> g:\Scan\Data\996
+        ARCHIVE -> No
+        INFILTRATIONS -> Win32/Ainslot.AA worm
+FILE -> g:\Scan\Data\997
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Bifrose.NMB trojan
+FILE -> g:\Scan\Data\998
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.HotBar.P application
+FILE -> g:\Scan\Data\999
+        ARCHIVE -> No
+        INFILTRATIONS -> a variant of Win32/Adware.Virtumonde.NEH application
